@@ -23,3 +23,5 @@ VEX skips all of that. Decrypt, decompress, send to GPU. Done in under a millise
 
 One file. One load. Zero overhead.
 
+---
+[Learn more about VEX ←](VEX_Research.md)
