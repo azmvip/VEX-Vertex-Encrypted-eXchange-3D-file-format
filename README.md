@@ -1,4 +1,39 @@
+![License](https://img.shields.io/badge/License-MIT-green)
 
+
+
+
+![Version](https://img.shields.io/badge/Version-1.0-blue)
+
+
+
+
+![Language](https://img.shields.io/badge/Language-Python-yellow)
+
+
+
+
+![Format](https://img.shields.io/badge/Format-.vex-purple)
+
+
+
+
+![Encryption](https://img.shields.io/badge/Encryption-XOR-red)
+
+
+
+
+![Compression](https://img.shields.io/badge/Compression-zlib-orange)
+
+
+
+
+![Platform](https://img.shields.io/badge/Platform-Cross--Platform-lightgrey)
+
+
+
+
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 <p align="center">
   <img src="assets/بدون اسم670_20260511112153.png" width="700"/>
 </p>
