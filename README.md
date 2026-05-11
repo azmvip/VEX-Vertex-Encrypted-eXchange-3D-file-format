@@ -1,4 +1,13 @@
-
+<p>
+  <img src="https://img.shields.io/badge/License-MIT-green"/>
+  <img src="https://img.shields.io/badge/Version-1.0-blue"/>
+  <img src="https://img.shields.io/badge/Language-Python-yellow"/>
+  <img src="https://img.shields.io/badge/Format-.vex-purple"/>
+  <img src="https://img.shields.io/badge/Encryption-XOR-red"/>
+  <img src="https://img.shields.io/badge/Compression-zlib-orange"/>
+  <img src="https://img.shields.io/badge/Platform-Cross--Platform-lightgrey"/>
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen"/>
+</p>
 <p align="center">
   <img src="assets/بدون اسم670_20260511112153.png" width="700"/>
 </p>
